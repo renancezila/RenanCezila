@@ -10,7 +10,7 @@
 
 ### Find me on:
 
-<a href="https://www.linkedin.com/in/renan-cezila-787391388/" target="_blank"><img src="https://github.com/renancezila/RenanCezila/blob/main/img/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/renan-cezila/" target="_blank"><img src="https://github.com/renancezila/RenanCezila/blob/main/img/linkedin.png" alt="LinkedIn" width="30"></a>
 <a href="mailto:renancezila@gmail.com"><img src="https://github.com/renancezila/RenanCezila/blob/main/img/email.png" width="30"></img></a>
 
 
