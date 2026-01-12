@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🎓 I'm 34 years old and a computer science student
+- 🎓 I'm 35 years old and a computer science student
 - 📱 I develop Android applications and libraries
 - 🎓 Currently studying Android Development with Java and Kotlin.
 
@@ -26,10 +26,3 @@
 
 <br />
 <br />
-
-
-<details>
-  <summary>:octocat: GitHub Stats</summary>
- <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renancezila&theme=dracula&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
-
-</details>
